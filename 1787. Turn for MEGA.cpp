@@ -6,7 +6,7 @@ int main()
     int k,n;
     cin>>k>>n;
 
-    int diff=0;
+    int diff=0;//currently standing in the traffic jam
 
     for(int i=0;i<n;i++){
         int a;
